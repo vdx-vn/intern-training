@@ -4,13 +4,24 @@ This roadmap is designed to train an intern backend developer in **Basic Python*
 
 ---
 
+## Week 0: Git basic
+
+| **Day**                                     | **Topics**                                                                                                                                      | **Activities**                                                                            |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Day 1: Git Basics**                       | - What is Git & GitHub<br>- Git installation & setup<br>- Initializing a repo<br>- Basic Git commands: `init`, `add`, `commit`, `status`, `log` | - Install Git<br>- Set up user config<br>- Create and track a local repo                  |
+| **Day 2: Branching & Working with History** | - Branching: `branch`, `checkout`, `merge`<br>- Merge conflicts<br>- Viewing commit history<br>- Undoing changes: `reset`, `revert`             | - Create branches<br>- Practice merging & resolving conflicts<br>- Explore commit history |
+| **Day 3: GitHub & Remote Repos**            | - Creating a GitHub account<br>- `remote`, `push`, `pull`, `clone`<br>- SSH vs HTTPS<br>- GitHub UI overview                                    | - Connect local repo to GitHub<br>- Push & pull changes<br>- Clone a repo from GitHub     |
+| **Day 4: Collaboration & Pull Requests**    | - Fork vs clone<br>- Creating and reviewing Pull Requests<br>- Issues & Discussions<br>- Team workflows                                         | - Fork a public repo<br>- Make changes & open a PR<br>- Review someone else's PR          |
+| **Day 5: Capstone & Review**                | - Recap key commands & workflows<br>- Git aliases & productivity tips<br>- Final project / assessment: [First Contributions](https://github.com/firstcontributions/first-contributions)                                           | - Complete a mini group project<br>- Submit PR<br>- Q\&A + feedback session               |
+
 ## Week 1: Introduction to Python Basics
 
 **Goal**: Understand Python syntax, data types, and basic control structures.  
 **Duration**: 5 days (4-5 hours/day)  
 **Topics**:
 
-- Python setup (install Python, IDE like VSCode, virtual environments)
+- Install Ubuntu
+- Install Pycharm, virtual environments
 - Variables, data types (int, float, string, boolean, lists, tuples, dictionaries)
 - Basic operations (arithmetic, string manipulation)
 - Control structures (if-else, loops: for, while)
@@ -19,7 +30,7 @@ This roadmap is designed to train an intern backend developer in **Basic Python*
 
 **Daily Breakdown**:
 
-- **Day 1**: Install Python, set up VSCode, learn variables and data types. Practice with simple programs (e.g., calculate area of a rectangle).
+- **Day 1**: Install Ubuntu, Pycharm, virtual environment, learn variables and data types. Practice with simple programs (e.g., calculate area of a rectangle).
 - **Day 2**: Explore lists, tuples, and dictionaries. Practice indexing, slicing, and basic operations.
 - **Day 3**: Learn control structures (if-else, for/while loops). Write programs like a simple number guessing game.
 - **Day 4**: Understand functions and modular code. Create functions for basic calculations (e.g., factorial, sum of numbers).
@@ -162,9 +173,11 @@ Build a small REST API using Flask or FastAPI that:
 
 ## Additional Notes
 
-- **Mentorship**: Assign a mentor to review the intern’s code and provide feedback weekly.
+- **Courses**:
+    - [freeCodeCamp - Scientific Computing with Python
+](https://www.freecodecamp.org/learn/scientific-computing-with-python)
 - **Practice**: Encourage daily coding practice (e.g., 1-2 small problems on platforms like LeetCode or HackerRank).
 - **Tools**: Familiarize the intern with Git for version control and basic command-line usage.
-- **Evaluation**: Assess progress through the weekly exercises and a final review of the Week 4 project.
+- **Evaluation**: Assess progress through the weekly exercises
 
-This roadmap ensures the intern gains foundational skills in Python and SQL, culminating in a practical backend project that demonstrates their ability to build and interact with a database-driven application.
+This roadmap ensures the intern gains foundational skills in Git, Python and SQL, culminating in a practical backend project that demonstrates their ability to build and interact with a database-driven application.
