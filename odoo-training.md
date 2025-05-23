@@ -1,4 +1,4 @@
-Certainly! Here's a comprehensive **2-month (40 working days)** training schedule for Odoo intern developers, structured to cover:
+Here's a comprehensive **2-month (40 working days)** training schedule for Odoo intern developers, structured to cover:
 
 * Installing Odoo from source
 * Understanding the server framework
